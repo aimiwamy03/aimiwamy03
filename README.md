@@ -6,8 +6,6 @@ I'm happiest when I'm turning a question into something real. That might mean bu
 
 I'm based in San Francisco, building at the intersection of AI, product, and human experience. Lately, I'm especially excited about voice AI, intelligent agents, and rethinking what interacting with technology could feel like.
 
-I love a good rabbit hole, a room full of ambitious people, and the feeling of making something that didn't exist yesterday.
-
 When I'm not building, I'm usually reading, writing on [Substack](https://substack.com/@aimiwang), or making art at [rienespecial.com](https://rienespecial.com).
 
 Come say hi on [X](https://x.com/AimiWang). I'm always up for a good conversation or an ambitious idea.
